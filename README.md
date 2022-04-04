@@ -21,7 +21,7 @@ I went to geeksforgeeks.org and followed their [Digital Clock project](https://w
 
 ### Screenshot
 
-![Digital CLock](https://github.com/mlee99/digital-clock/blob/main/assests/animated-clock.png)
+![Digital Clock](https://github.com/mlee99/digital-clock/blob/main/assets/animated-clock.png)
 
 ### Links
 
